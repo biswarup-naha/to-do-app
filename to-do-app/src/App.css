@@ -1,0 +1,18 @@
+h2{
+  font-weight: 700;
+  font-size: 50px;
+  margin: 10px;
+  margin-bottom: 30px;
+}
+
+.my-row{
+  margin: 10px 5px;
+}
+
+input{
+  width: 80%;
+}
+
+.my-btn{
+  min-width: 80px;
+}
